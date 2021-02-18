@@ -1,0 +1,15 @@
+.appHeader{
+    font-family: 'Inter', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    font-size: 24px;
+    color: #fff;
+    background: #1abc9c;
+    margin: 0;
+}
+.appHeader h2{
+    text-transform: uppercase;
+}
